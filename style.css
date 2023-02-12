@@ -7,11 +7,7 @@
    footer {
       width: 100%;
       height: 120px;
-<<<<<<< HEAD
       background-color: blue;
-=======
-      backgroud-color: blue;
->>>>>>> 586a905ef1b7ff763ed470d6d279ed446b37b5bd
       color: white;
    }
 
@@ -35,3 +31,9 @@
       text-align: center;
       font-size: 30px;
    }
+   .card {
+    width: 80%;
+    margin: 40px auto;
+    border: 5px solid gray;
+    box-shadow: 5px 10px #888888;
+  }
